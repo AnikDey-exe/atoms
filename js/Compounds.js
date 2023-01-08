@@ -99,15 +99,7 @@ AFRAME.registerComponent("atoms", {
 
     atom.appendChild(nucleus);
     
-    
-    /*
-    
-    
-    REPLACE THE COMMENT WITH THE CODE
-    
-    
-    
-    */
+  
 
     
   }
